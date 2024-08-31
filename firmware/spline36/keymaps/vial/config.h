@@ -1,0 +1,12 @@
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0x63, 0x65, 0x38, 0x36, 0x00, 0x00, 0x00, 0x06}
+//#define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
+//#define VIAL_UNLOCK_COMBO_COLS { 0, 4 }
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
+
+#define BILATERAL_COMBINATIONS
+
+//#define TAP_CODE_DELAY 60
+//#define REPORT_MODS_SEPARATELY
