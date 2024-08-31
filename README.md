@@ -6,9 +6,9 @@
 
 The Spline36 is a 36-key ergonomic split keyboard. 
 
-The columns are staggered, slightly splayed or fanned out, and there is an angle to the top and bottom row to create a key-well effect. Similarly the thumb cluster is offset and angled to fit under the thumb in a more natural position.
+The columns are staggered, slightly splayed or fanned out, and there is an angle to the top and bottom row to create a key-well effect. Similarly, the thumb cluster is offset and angled to fit under the thumb in a more natural position.
 
-Beneath the plate, all the keys are connected directly (no diodes) to a RP2040 based MCU with a USB-C connector. The two halves are connected via TRRS. The bottom plate is fastened via M2 screws and heatset inserts. 
+Beneath the plate, all the keys are connected directly (no diodes) to a RP2040 based MCU with a USB-C connector. The two halves are connected via TRRS. The bottom plate is fastened via M2 screws and heat-set inserts. 
 
 [Continue reading...](notes/Design.md)
 

@@ -6,14 +6,15 @@
 | ---- | ---- | --- |
 | Waveshare RP2040-Zero | N/A | 2 |
 | MX Switches | N/A | 36 |
-| Heat Set Inserts | M2 ø3.5×6mm??? | 10 | 
+| Heat Set Inserts | M2 ø3.5×5mm | 10 | 
 | Screws, Countersunk | M2 | 10 |
 | TRRS Jacks | PJ-313B | 2 |
+| TRRS Cable | M-M | 1 |
 | Wire | 30AWG | N/A |
 | 3D printed shell | N/A | 4 pcs |
 
 ## Tolerances
-**IMPORTANT**: The current FreeCAD files and .stl models have an issue where the clearance between the keys are too tight, and keycaps will likely bind and chafe against each other:
+**IMPORTANT**: The current FreeCAD files and .stl models have an issue where the clearance between the keys is too tight, and keycaps will likely bind and chafe against each other:
 
 ![Profile view of keyboard showing keycap tolerances](../images/photos/IMG_20240826_094506.jpg)
 
@@ -31,18 +32,18 @@ The MCU fitted perfectly: both the USB jack fits in the hole in the shell, a USB
 
 The purpose of this stopper is to prevent any lateral movement when inserting the USB cable. It prevents the MCU from being pushed in the direction you are pushing the cable and accidentally being dislodged.
 
-Unfortunately the dimensions for the TRRS jack were too tight. Coincidentally, while building the keyboard, I realised I only have *TRS* cables and no *TRRS* cables. I changed to TRS jacks instead, which are a fair bit shorter and can thus fit in easily.
+Unfortunately, the dimensions for the TRRS jack were too tight. Coincidentally, while building the keyboard, I realised I only have *TRS* cables and no *TRRS* cables. I changed to TRS jacks instead, which are a fair bit shorter and can thus fit in easily.
 
 ![MCU and TRRS Jack](../images/photos/IMG_20240826_093249.jpg)
 
 The gap between the new TRS jack and the stopper can be filled with hot glue - just seal off the hole on the back of the TRS jack first with something like insulation tape to prevent ingress of the glue. Again, this is so that when inserting a cable, the stopper prevents the jack from sheared off whatever glue might be holding it down.
 
-## Heatset Inserts
-I settled for only 4× M2 screws to hold the bottom plate in place, and it is working perfectly fine. M2 means smaller heatset inserts, which means whichever part you place them in needs less wall thickness to absorb extra heat when melting them in.
+## Heat-set Inserts
+I settled for only 4× M2 screws to hold the bottom plate in place, and it is working perfectly fine. M2 means smaller heat-set inserts, which means whichever part you place them in needs less wall thickness to absorb extra heat when melting them in.
 
-![Closeup of heatset insert before melting it into place](../images/photos/IMG_20240827_171631.jpg)
+![Closeup of heat-set insert before melting it into place](../images/photos/IMG_20240827_171631.jpg)
 
-When designing the holes to insert the heatsets, remember to taper the entrance to help align them. If you have a craft knife set, a straight chisel tip blade is useful for making sure it sets in place level.
+When designing the holes to insert the heat-sets, remember to taper the entrance to help align them. If you have a craft knife set, a straight chisel tip blade is useful for making sure it sets in place level.
 
 Don't forget to apply a taper to the plate side as well, so that the heads of your screws sit flush with the surface.
 

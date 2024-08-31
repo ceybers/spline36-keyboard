@@ -14,9 +14,9 @@ While I could of used a generator like [Ergogen](https://github.com/ergogen/ergo
 
 ## Inspiration
 
-I have a [TBK Mini](https://github.com/Bastardkb/TBK-Mini) that I use, and I especially like the design Quentin used for the columns, where each key column appears to be a separate part that was rotated and moved around freely, and then held together by an outer frame.  As things go, the TBK didnt't fit to my hand exactly, but at the time it didn't bother me enough to build something new.
+I have a [TBK Mini](https://github.com/Bastardkb/TBK-Mini) that I use, and I especially like the design Quentin used for the columns, where each key column appears to be a separate part that was rotated and moved around freely, and then held together by an outer frame.  As things go, the TBK didn't fit to my hand exactly, but at the time it didn't bother me enough to build something new.
 
-Next I saw photos of [jdart's Chortyl](https://github.com/jdart/chortyl) and instantly fell in love with the design. Unfortunately 34-keys are a *bit* too few for me, and I still wanted something that is custom tailored for my own hands.
+Next, I saw photos of [jdart's Chortyl](https://github.com/jdart/chortyl) and instantly fell in love with the design. Unfortunately, 34-keys are a *bit* too few for me, and I still wanted something that is custom tailored for my own hands.
 
 ## Initial Designs
 
@@ -32,7 +32,7 @@ The first revision of the Spline had a 6th column with a single vertical 2u key.
 
 I am a firm believer in vertical 2u keys in monoblock keyboards, as I can instinctively hit the numpad Enter key with my right hand while using the mouse. I also find it convenient to be able to just hit the rightmost key with my thumb when my hands are off the keyboard.
 
-Of course most of this doesn't really apply when using split keyboards, as the mouse or trackball usually goes *inbetween* the halves. 
+Of course, most of this doesn't really apply when using split keyboards, as the mouse or trackball usually goes *in-between* the halves. 
 
 Having outer keys could still work for hands-off thumb presses, but they don't really fit in with how I use the keyboard when actively typing. I definitely didn't want to use them with my pinkies either - I'm trying to place more of the keyboard work on my thumbs, index and middle fingers.
 
@@ -40,7 +40,7 @@ Having outer keys could still work for hands-off thumb presses, but they don't r
 
 I decided to move the MCU to the traditional location for split keyboards: inwards in the column to the side of the index finger key column, above the thumb keys. 
 
-![Photo of second reivsion before painting](../images/photos/IMG_20240826_094458.jpg)
+![Photo of second revision before painting](../images/photos/IMG_20240826_094458.jpg)
 
 It turns out that the columns I was using for the keys is not only just the right width, it is also high enough off the floor that the MCU can fit beneath it, even with vertical header pins soldered on.
 
